@@ -1,0 +1,27 @@
+{
+  "name": "crowd-rest",
+  "version": "0.0.1",
+  "description": "Rest client for crowd, distributed computing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicola/crowd-rest.git"
+  },
+  "keywords": [
+    "crowd",
+    "crowd",
+    "computing"
+  ],
+  "author": "Nicola Greco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicola/crowd-rest/issues"
+  },
+  "homepage": "https://github.com/nicola/crowd-rest",
+  "dependencies": {
+    "requests": "0.0.1"
+  }
+}
