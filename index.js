@@ -1,6 +1,6 @@
 module.exports = CrowdRest
 
-var requests = require('requests')
+var request = require('request')
 
 function CrowdRest(url, opts) {
   this.url = url
@@ -8,9 +8,9 @@ function CrowdRest(url, opts) {
 }
 
 CrowdRest.prototype.get = function() {
-  return requests.get(this.url)
+  return request.get(this.url)
 }
 
 CrowdRest.prototype.post = function(result) {
-  return requests.post(this.url, result)
+  return request.post(this.url, result)
 }

@@ -22,6 +22,5 @@
   },
   "homepage": "https://github.com/nicola/crowd-rest",
   "dependencies": {
-    "requests": "0.0.1"
   }
 }
