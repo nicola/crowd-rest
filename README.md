@@ -2,7 +2,7 @@
 
 RESTful implementation of the client for [Crowd](https://github.com/nicola/crowd) that gets tasks, execute them and get to the next task.
 
-> **Warning**: this is very experimantal - in case you get it to work, you might feel "double rainbow all the way".
+> **Warning**: this is very experimental - in case you get it to work, you might feel "double rainbow all the way".
 
 ## Usage
 
